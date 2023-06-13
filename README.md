@@ -1,15 +1,13 @@
 
-# Hi, I'm Yeonjin :wave:
+# YeonJin Kim
 
-I'm a student learning English Interpretation and Translation & Software Convergence at Dongguk University, Republic of Korea.  
+Junior Backend Developer.
 
+### 🛠️: Techincal Stack
+- python
+- C/C++
+- Django
 
-[![Juyeong's github stats](https://github-readme-stats.vercel.app/api?username=ygk313&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ygk313&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-  
-<div align=center>
+### ✔️ Portfolio [![Notion Badge](https://img.shields.io/badge/-Notion-yellow?style=flat-square&logo=Notion&Color=white)](https://www.notion.so/thediaryofyj/YeonJin-Kim-d2f201b4c34342cfafbc19d248fcd67b)
 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yj980919k@gmail.com)](mailto:yj980919k@gmail.com)  
-
-</div>
-
+### ✔️ Mail [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ygk313@naver.com)](mailto:ygk313@naver.com)
