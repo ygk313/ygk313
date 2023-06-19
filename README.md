@@ -4,7 +4,7 @@
 Junior Backend Developer.
 
 ### 🛠️: Techincal Stack
-- python
+- Python
 - C/C++
 - Django
 
