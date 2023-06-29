@@ -7,6 +7,7 @@ Junior Backend Developer.
 - Python
 - C/C++
 - Django
+- MySQL
 
 ### ✔️ Portfolio [![Notion Badge](https://img.shields.io/badge/-Notion-yellow?style=flat-square&logo=Notion&Color=white)](https://www.notion.so/thediaryofyj/YeonJin-Kim-d2f201b4c34342cfafbc19d248fcd67b)
 
