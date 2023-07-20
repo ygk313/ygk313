@@ -20,10 +20,12 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>  
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/> 
 <br>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon%20AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=amazon%20AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS RDS-0052CC?style=flat-square&logo=amazon%20AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-0052CC?style=flat-square&logo=Docker&logoColor=white"/>
 <br>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
